@@ -8,7 +8,11 @@ body {
 }
 
 .container {
-    width: 100px;
+    max-width: 80%;
+    background: #F4AA15;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 20px ;
 }
 h1 {
     margin-top: 10px;
