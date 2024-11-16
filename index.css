@@ -1,9 +1,10 @@
 body {
     background-image: url("./jumpingRope.jpg");
-    background-size: cover;
+    background-size:200px;
     font-weight: bold;
     text-align: center;
     color: aliceblue;
+    
 }
 
 .container {
